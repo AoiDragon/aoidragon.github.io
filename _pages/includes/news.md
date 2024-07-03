@@ -1,6 +1,5 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.07*: &nbsp;🎉 One paper is accepted by ECCV 2024.
+- *2024.03*: &nbsp;🎉 Diffusion-NAT won Evaluation and Model Insight Award at EACL 2024!
+- *2024.01*: &nbsp;🎉 One paper is accepted by EACL 2024.
+- *2023.09*: &nbsp;🎉 One paper is accepted by EMNLP 2023. 
